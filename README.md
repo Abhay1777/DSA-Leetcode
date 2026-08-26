@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -113,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
