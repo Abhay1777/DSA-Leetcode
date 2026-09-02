@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
