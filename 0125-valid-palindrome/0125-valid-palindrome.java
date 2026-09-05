@@ -4,19 +4,18 @@ class Solution {
         int l = 0;
         int r = s.length() - 1;
 
-        while (l < r) {
+        while (l <= r) {
 
-           
-            while (l < r && !Character.isLetterOrDigit(s.charAt(l))) {
+            if (!Character.isLetterOrDigit(s.charAt(l))) {
                 l++;
+                continue;
             }
 
-            
-            while (l < r && !Character.isLetterOrDigit(s.charAt(r))) {
+            if (!Character.isLetterOrDigit(s.charAt(r))) {
                 r--;
+                continue;
             }
 
-           
             if (Character.toLowerCase(s.charAt(l)) !=
                 Character.toLowerCase(s.charAt(r))) {
                 return false;
