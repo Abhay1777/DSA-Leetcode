@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -200,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
