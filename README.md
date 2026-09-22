@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Search
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
@@ -212,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
