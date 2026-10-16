@@ -15,25 +15,22 @@ class Solution {
         {
             head = head.next;
         }
-        ListNode l = head;
-        ListNode curr = head;
-        ListNode prev= null;
-       
-        while(curr!=null)
+       ListNode l = head;
+       ListNode curr = head ;
+       ListNode prev = null;
+       while(curr!=null)
+       {
+        if(curr.val == val)
         {
-    
-            if(curr.val==val)
-            {
-                 prev.next= curr.next;
-                 curr = curr.next;
-            }
-            else {
-                prev = curr;
-                curr = curr.next;
-            }
+         prev.next = curr.next;
+            curr = curr.next;
+            
         }
-return head;
-
-        
+        else{
+            prev = curr;
+            curr = curr.next;
+        }
+       } 
+       return head ;
     }
 }
