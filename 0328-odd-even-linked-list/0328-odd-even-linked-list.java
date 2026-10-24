@@ -24,14 +24,10 @@ class Solution {
         {
            curr = odd;
            odd.next = even.next;
-odd = odd.next; 
-           
-        
-            even.next = odd.next;
-            curr = even;
-            even = even.next;
-           
-
+           odd = odd.next; 
+           even.next = odd.next;
+           curr = even;
+           even = even.next;   
         }
         odd.next = evenHead;
         curr = curr.next;
