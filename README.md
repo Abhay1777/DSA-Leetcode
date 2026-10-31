@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
