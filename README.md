@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
