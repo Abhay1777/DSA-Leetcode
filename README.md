@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Newton's Method
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhay1777/DSA-Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Abhay1777/DSA-Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
